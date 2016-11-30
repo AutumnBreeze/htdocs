@@ -1,2 +1,3 @@
 <?php
-echo 'git success!';
+echo 'git success!\r\n';
+echo 'edit on github!';
